@@ -1,0 +1,25 @@
+
+
+
+header {
+    background-color: #0c263f; 
+    color: #f2ede2; 
+    padding: 20px 0; 
+  }
+  
+  .container {
+    width: 80%; 
+    margin: 0 auto; 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+  }
+  
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px; 
+    margin: 0; 
+  }
+  
+ 
+  
