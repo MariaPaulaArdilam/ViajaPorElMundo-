@@ -1,5 +1,21 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# Node dependencies
+/node_modules
+
+# Compiled output
+/dist
+
+# Logs
+/logs
+
+# IDE-specific files
+.idea
+.vscode
+
+# Environment configuration
+.env
+
 # Compiled output
 /dist
 /tmp
