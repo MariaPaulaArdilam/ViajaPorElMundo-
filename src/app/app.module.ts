@@ -24,7 +24,8 @@ import { BackButtonComponent } from './components/back-button/back-button.compon
     AppRoutingModule,
     HttpClientModule
   ],
-  providers: [],
+  providers: [
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

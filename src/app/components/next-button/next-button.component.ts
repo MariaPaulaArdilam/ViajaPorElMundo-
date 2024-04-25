@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
+
 @Component({
   selector: 'app-next-button',
   templateUrl: './next-button.component.html',
@@ -11,5 +12,6 @@ export class NextButtonComponent implements OnInit {
 
   ngOnInit(): void {
   }
+
 
 }

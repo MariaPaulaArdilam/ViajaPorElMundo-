@@ -6,7 +6,7 @@
   </select>
   
   
-  <select class="form-select" aria-label="Large select example" >
+  <select class="form-select" aria-label="Large select example" (change)="guardarSeleccionViaje($event)"> 
     <option selected disabled>Selecciona la ciudad</option>
     <option *ngFor="let ciudad of ciudades" [value]="ciudad.id">{{ ciudad.nombre }}</option>
   </select>
