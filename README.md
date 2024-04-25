@@ -1,27 +1,35 @@
-# Frontend
+# Consulta de Países y Ciudades
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+Esta aplicación web te permite explorar información detallada sobre países y ciudades de todo el mundo. Desde datos demográficos hasta detalles culturales, encontrarás todo lo que necesitas para planificar tu próximo viaje o simplemente para aprender más sobre diferentes lugares.
 
-## Development server
+## Características principales
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Consulta de Países y Ciudades:** Explora una amplia base de datos de países y ciudades para descubrir información relevante sobre su historia, cultura, atracciones turísticas y más.
 
-## Code scaffolding
+- **Conversión de Presupuesto:** Ingresa tu presupuesto en pesos y conviértelo instantáneamente a la moneda local del país que elijas, para tener una mejor idea de cuánto puedes gastar durante tu viaje.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Información Meteorológica:** Mantente al tanto del clima en tu destino elegido con actualizaciones en tiempo real. Ya sea que estés planeando unas vacaciones o un viaje de negocios, siempre sabrás qué esperar.
 
-## Build
+- **Tasas de Cambio:** Accede a tasas de cambio actualizadas para calcular fácilmente el valor de tu dinero en diferentes países y planificar tu presupuesto de manera más eficiente.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Monedas:** Descubre información sobre la moneda local de cada país, incluyendo su valor en comparación con otras monedas importantes.
 
-## Running unit tests
+## Cómo usar
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. **Consulta de Países y Ciudades:** Utiliza la barra de búsqueda para encontrar el país o ciudad que te interese. Una vez seleccionado, podrás acceder a información detallada sobre el lugar elegido.
 
-## Running end-to-end tests
+2. **Conversión de Presupuesto:** Ingresa tu presupuesto en pesos en el campo designado y selecciona el país al que planeas viajar. La aplicación calculará automáticamente el valor equivalente en la moneda local de ese país.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+3. **Información Meteorológica:** Encuentra la sección de clima en la página de tu destino elegido para obtener información actualizada sobre las condiciones meteorológicas.
 
-## Further help
+4. **Tasas de Cambio:** Visita la sección de tasas de cambio para consultar las últimas actualizaciones sobre las conversiones de moneda.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Tecnologías utilizadas
+
+- **Frontend:** Angular
+- **Backend:** Laravel (PHP)
+- **APIs:** RESTful APIs para consultar información sobre países, ciudades, clima y tasas de cambio.
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar esta aplicación o encuentras algún error, no dudes en abrir un problema o enviar una solicitud de extracción.
