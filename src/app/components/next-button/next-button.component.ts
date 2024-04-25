@@ -11,6 +11,7 @@ export class NextButtonComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+
   }
 
 
