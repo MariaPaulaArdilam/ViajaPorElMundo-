@@ -8,6 +8,7 @@ import { OneComponent } from './pages/one/one.component';
 import { NextButtonComponent } from './components/next-button/next-button.component';
 import { TwoComponent } from './pages/two/two.component';
 import { HttpClientModule } from '@angular/common/http';
+import { BackButtonComponent } from './components/back-button/back-button.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { HttpClientModule } from '@angular/common/http';
     HeaderComponent,
     OneComponent,
     NextButtonComponent,
-    TwoComponent
+    TwoComponent,
+    BackButtonComponent
   ],
   imports: [
     BrowserModule,

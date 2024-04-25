@@ -14,7 +14,7 @@ export class OneComponent implements OnInit {
 
   ngOnInit(): void {
     this.getPaises();
-    //this.getCiudades(1);
+  
   }
   getPaises(): void {
     this.http.get<any[]>('http://localhost:8000/api/paises').subscribe((data: any[]) => {

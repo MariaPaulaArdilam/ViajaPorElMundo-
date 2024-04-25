@@ -1,6 +1,6 @@
 .my-button {
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: #3382cd;
     color: white;
     border: none;
     border-radius: 5px;
@@ -10,16 +10,16 @@
     
   }
   .my-button:hover {
-    background-color: #45a049;
+    background-color: #456fa0;
   }
   .my-button:active {
-    background-color: #3e8e41;
+    background-color: #456fa0;
   }
 
-.app-next-button{
+.app-back-button{
     display: flex;
     justify-content: center;
-    margin-top: 5em;
+    margin-top: 5em  ;
     padding: 10px 30px;
 
   }
