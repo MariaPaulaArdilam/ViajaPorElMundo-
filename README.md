@@ -14,6 +14,19 @@ Esta aplicación web te permite explorar información detallada sobre países y 
 
 - **Monedas:** Descubre información sobre la moneda local de cada país, incluyendo su valor en comparación con otras monedas importantes.
 
+## Bocetos de Diseño UX
+
+Aquí están los bocetos de diseño inicial para nuestra aplicación:
+
+![Boceto 1]([![2024-04-25-13-52-52-Untitled-Fig-Jam.png](https://i.postimg.cc/tJTxxKDK/2024-04-25-13-52-52-Untitled-Fig-Jam.png)](https://postimg.cc/sQkxF0km))
+*Pantalla 1*
+
+![Boceto 2]([![2024-04-25-13-53-20-Untitled-Fig-Jam.png](https://i.postimg.cc/FHcJ3ggH/2024-04-25-13-53-20-Untitled-Fig-Jam.png)](https://postimg.cc/mPLDG95v))
+*Pantalla 2*
+
+![Boceto 2]([![2024-04-25-13-53-38-Untitled-Fig-Jam.png](https://i.postimg.cc/7hdfTf5z/2024-04-25-13-53-38-Untitled-Fig-Jam.png)](https://postimg.cc/bS0z7YHY) )
+*Pantalla 3*
+
 ## Cómo usar
 
 1. **Consulta de Países y Ciudades:** Utiliza la barra de búsqueda para encontrar el país o ciudad que te interese. Una vez seleccionado, podrás acceder a información detallada sobre el lugar elegido.
@@ -33,3 +46,4 @@ Esta aplicación web te permite explorar información detallada sobre países y 
 ## Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar esta aplicación o encuentras algún error, no dudes en abrir un problema o enviar una solicitud de extracción.
+
