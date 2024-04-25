@@ -7,6 +7,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { OneComponent } from './pages/one/one.component';
 import { NextButtonComponent } from './components/next-button/next-button.component';
 import { TwoComponent } from './pages/two/two.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { TwoComponent } from './pages/two/two.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

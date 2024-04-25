@@ -1,18 +1,15 @@
-
-  <div class="select-container">
-    <h1>Ingresa el destino que quieres visitar</h1>
-    <select class="form-select " aria-label="Large select example">
-      <option selected>Selecciona el país</option>
-      <option value="1">One</option>
-      <option value="2">Two</option>
-      <option value="3">Three</option>
-    </select>
+<div class="select-container">
+  <h1>Ingresa el destino que quieres visitar</h1>
+  <select class="form-select" aria-label="Large select example" (change)="getCiudades($event)">
+    <option selected disabled>Selecciona el país</option>
+    <option *ngFor="let pais of paises" [value]="pais.id">{{ pais.nombre }}</option>
+  </select>
   
-    <select class="form-select"  aria-label="Small select example">
-      <option selected>Selecciona la ciudad</option>
-      <option value="1">One</option>
-      <option value="2">Two</option>
-      <option value="3">Three</option>
-    </select>
-    <app-next-button routerLink="/two"></app-next-button>
-  </div>
+  
+  <select class="form-select" aria-label="Large select example" >
+    <option selected disabled>Selecciona la ciudad</option>
+    <option *ngFor="let ciudad of ciudades" [value]="ciudad.id">{{ ciudad.nombre }}</option>
+  </select>
+  <app-next-button routerLink="/two"></app-next-button>
+</div>
+         
