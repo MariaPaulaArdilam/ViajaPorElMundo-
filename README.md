@@ -17,7 +17,7 @@ Esta aplicación web te permite explorar información detallada sobre países y 
 ## Bocetos de Diseño UX
 
 Aquí están los bocetos de diseño inicial para nuestra aplicación:
-
+[![2024-04-25-13-53-38-Untitled-Fig-Jam.png](https://i.postimg.cc/7hdfTf5z/2024-04-25-13-53-38-Untitled-Fig-Jam.png)](https://postimg.cc/bS0z7YHY) 
 ![Boceto 1]([![2024-04-25-13-52-52-Untitled-Fig-Jam.png](https://i.postimg.cc/tJTxxKDK/2024-04-25-13-52-52-Untitled-Fig-Jam.png)](https://postimg.cc/sQkxF0km))
 *Pantalla 1*
 
